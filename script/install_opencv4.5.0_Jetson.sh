@@ -13,7 +13,7 @@ version="4.5.0"
 folder="workspace"
 
 echo "** Remove other OpenCV first"
-sudo sudo apt-get purge *libopencv*
+# sudo sudo apt-get purge *libopencv*
 
 
 echo "** Install requirement"
